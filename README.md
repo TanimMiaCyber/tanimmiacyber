@@ -1,4 +1,4 @@
-### Hi there 👋, Frontend Developer | React & Tailwind Specialist | Building Fast & Modern Web Interfaces
+### Frontend Developer | React & Tailwind Specialist | Building Fast & Modern Web Interfaces
 #### I build fast, responsive, and modern websites that help businesses stand out and convert better.
 ![I build fast, responsive, and modern websites that help businesses stand out and convert better.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
