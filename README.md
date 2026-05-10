@@ -1,6 +1,6 @@
 ### Frontend Developer | React & Tailwind Specialist | Building Fast & Modern Web Interfaces
 #### I build fast, responsive, and modern websites that help businesses stand out and convert better.
-![I build fast, responsive, and modern websites that help businesses stand out and convert better.](https://i.postimg.cc/MKDbMqLp/banner.png)
+![I build fast, responsive, and modern websites that help businesses stand out and convert better.](https://i.postimg.cc/htnDwq4Z/banner.png)
 
 Hi, I'm Tanim — a Frontend Developer specializing in building fast, responsive, and modern web interfaces.
 
