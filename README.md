@@ -94,14 +94,6 @@ Automated testing, building, and deployment pipeline for modern web applications
 
 ---
 
-## 📊 GitHub Activity
-
-![](https://github-readme-stats.shion.dev/api?username=programmertanim&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=programmertanim&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=programmertanim&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 🌱 Currently Learning
 
 * Advanced System Design
@@ -126,11 +118,8 @@ I'm interested in working with:
 * 🏢 Businesses preparing for high-scale growth
 
 **Portfolio:** [Coming Soon](#)
-
 **LinkedIn:** [Connect with me](#)
-
 **Upwork:** [Hire me](#)
-
 **Email:** [Contact me](mailto:your-email@example.com)
 
 ---
