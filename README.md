@@ -96,13 +96,9 @@ Automated testing, building, and deployment pipeline for modern web applications
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmertanim&show_icons=true&hide_border=true&count_private=true" alt="Programmer Tanim GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmertanim&hide_border=true" alt="Programmer Tanim GitHub Streak" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=programmertanim&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=programmertanim&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=programmertanim&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
