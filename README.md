@@ -1,31 +1,51 @@
-## Tanim Mia
-### Frontend Developer | React & Tailwind Specialist | Building Fast & Modern Web Interfaces
-#### I build fast, responsive, and modern websites that help businesses stand out and convert better.
-![I build fast, responsive, and modern websites that help businesses stand out and convert better.](https://i.postimg.cc/htnDwq4Z/banner.png)
+PROGRAMMER TANIM
 
-Hi, I'm Tanim — a Frontend Developer specializing in building fast, responsive, and modern web interfaces.
+Full Stack E-commerce Developer | High-Performance Store Architect
 
-I work with technologies like HTML5, CSS3, JavaScript, React, Tailwind, and Bootstrap to create clean, user-friendly, and high-performing websites. My focus is not just on design, but on delivering real results — better user experience, faster load times, and higher conversion.
+I build fast, secure, and scalable e-commerce systems
+designed for real-world business growth.
 
-I can help you with:
-- Landing Pages (modern & conversion-focused)
-- Website Development & Cloning
-- UI/UX Improvements
-- Bug Fixing & Performance Optimization
+WHAT I BUILD
+• High-performance e-commerce platforms
+• Scalable backend systems
+• Secure payment integrations
+• Cloud infrastructure
+• CI/CD and automated deployments
+• Performance and scalability solutions
 
-I believe in clean code, smart solutions, and efficient workflows. I use Git & GitHub for version control to ensure smooth and professional project delivery.
+TECHNOLOGY
 
-I'm always learning and improving to stay updated with the latest frontend technologies and trends.
+Frontend
+React • Next.js • TypeScript • Tailwind CSS
 
-Let's build something amazing together.
-Available for freelance work and open to new opportunities.
+Backend
+Node.js • Express.js
 
-Skills: HTML5 / CSS3 / JavaScript / React / Tailwind / Bootstrap / Git / GitHub / Responsive Design / Performance Optimization / Website Cloning / Bug Fixing
+Database
+PostgreSQL • Redis
 
-- 🔭 I’m currently working on this page. 
+Cloud & DevOps
+AWS • Docker • Terraform • Ansible • GitHub Actions
 
+FOCUS AREAS
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TanimMiaCyber)  
+• E-commerce Architecture
+• System Design
+• Web Performance
+• Cloud Architecture
+• DevOps
+• Backend Engineering
+• Scalability & Security
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+FEATURED PROJECTS
 
+[Project 1]
+[Project 2]
+[Project 3]
+
+CONNECT
+
+Portfolio
+LinkedIn
+Upwork
+Email
