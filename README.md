@@ -1,51 +1,28 @@
-PROGRAMMER TANIM
 
-Full Stack E-commerce Developer | High-Performance Store Architect
+## 🌐 Socials:
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fsadfr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fasdfa) 
 
-I build fast, secure, and scalable e-commerce systems
-designed for real-world business growth.
+# 💻 Tech Stack:
+![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=programmertanim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=programmertanim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=programmertanim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-WHAT I BUILD
-• High-performance e-commerce platforms
-• Scalable backend systems
-• Secure payment integrations
-• Cloud infrastructure
-• CI/CD and automated deployments
-• Performance and scalability solutions
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=programmertanim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-TECHNOLOGY
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Frontend
-React • Next.js • TypeScript • Tailwind CSS
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=programmertanim&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Backend
-Node.js • Express.js
+---
+[![](https://komarev.com/ghpvc/?username=programmertanim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Database
-PostgreSQL • Redis
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dsfsdf) 
 
-Cloud & DevOps
-AWS • Docker • Terraform • Ansible • GitHub Actions
-
-FOCUS AREAS
-
-• E-commerce Architecture
-• System Design
-• Web Performance
-• Cloud Architecture
-• DevOps
-• Backend Engineering
-• Scalability & Security
-
-FEATURED PROJECTS
-
-[Project 1]
-[Project 2]
-[Project 3]
-
-CONNECT
-
-Portfolio
-LinkedIn
-Upwork
-Email
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
